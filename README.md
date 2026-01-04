@@ -67,16 +67,16 @@ Create a .env file in the root directory using the example below:
 
 ## Getting Started 
 
-*Clone the repository*
+**Clone the repository**
 - git clone https://github.com/vedants06/cake-shop-nextjs.git
 - cd cake-shop-nextjs
 
-*Install dependencies*
+**Install dependencies**
 - npm install
 
-*Setup Prisma*
+**Setup Prisma**
 - npx prisma generate
 - npx prisma migrate dev
 
-*Run the development server*
+**Run the development server**
 - npm run dev
