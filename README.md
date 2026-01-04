@@ -54,12 +54,16 @@ my-app/
 └── README.md
 ```
 
+---
+
 ## Environment Variables
 
 Create a .env file in the root directory using the example below:
 
 - DATABASE_URL=
 - NEXTAUTH_SECRET=
+
+---
 
 ## Getting Started 
 
