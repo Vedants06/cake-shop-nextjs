@@ -52,6 +52,7 @@ my-app/
 ├── types/            # TypeScript type definitions
 ├── package.json
 └── README.md
+```
 
 ## Environment Variables
 
