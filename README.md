@@ -52,3 +52,26 @@ my-app/
 ├── types/            # TypeScript type definitions
 ├── package.json
 └── README.md
+
+## Environment Variables
+
+Create a .env file in the root directory using the example below:
+
+- DATABASE_URL=
+- NEXTAUTH_SECRET=
+
+## Getting Started 
+
+*Clone the repository*
+- git clone https://github.com/vedants06/cake-shop-nextjs.git
+- cd cake-shop-nextjs
+
+*Install dependencies*
+- npm install
+
+*Setup Prisma*
+- npx prisma generate
+- npx prisma migrate dev
+
+*Run the development server*
+- npm run dev
